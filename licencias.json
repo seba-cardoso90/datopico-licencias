@@ -1,0 +1,10 @@
+{
+  "maximo_san_martin": {
+    "activa": true,
+    "vencimiento": "2026-11-15",
+    "cliente": "Máximo San Martín",
+    "plan": "Datópico BI Suite - Plan Corporativo",
+    "dias_gracia_offline": 3,
+    "mensaje_bloqueo": "Suscripción mensual vencida. Por favor regularice su pago con Datópico."
+  }
+}
