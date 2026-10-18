@@ -1,7 +1,7 @@
 {
   "maximo_san_martin": {
     "activa": true,
-    "vencimiento": "2026-12-15",
+    "vencimiento": "2026-09-15",
     "cliente": "Máximo San Martín",
     "plan": "Datópico BI Suite - Plan Corporativo",
     "dias_gracia_offline": 3,
