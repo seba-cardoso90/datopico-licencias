@@ -1,9 +1,25 @@
 {
   "maximo_san_martin": {
     "activa": true,
-    "vencimiento": "2026-11-15",
+    "vencimiento": "2027-01-31",
     "cliente": "Máximo San Martín",
     "plan": "Datópico BI Suite - Plan Corporativo",
+    "dias_gracia_offline": 3,
+    "mensaje_bloqueo": "Suscripción mensual vencida. Por favor regularice su pago con Datópico."
+  },
+  "puntovet": {
+    "activa": true,
+    "vencimiento": "2029-11-30",
+    "cliente": "Puntovet",
+    "plan": "Datópico BI Suite - Plan Retail & Veterinarias",
+    "dias_gracia_offline": 5,
+    "mensaje_bloqueo": "Suscripción mensual vencida. Comuníquese con Datópico para renovar su servicio."
+  },
+  "la_toscana": {
+    "activa": true,
+    "vencimiento": "2029-11-02",
+    "cliente": "La Toscana",
+    "plan": "Datópico BI Suite - Plan Gastronomía & Retail",
     "dias_gracia_offline": 3,
     "mensaje_bloqueo": "Suscripción mensual vencida. Por favor regularice su pago con Datópico."
   }
